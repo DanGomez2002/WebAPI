@@ -40,7 +40,15 @@ const Footer = () => {
         </strong>
       </div>
       <hr />
-      <h4>Diseñado por: Carlos Daniel Gomez Murcia</h4>
+      <h4>Diseñado por: Carlos Daniel Gomez Murcia
+        
+      </h4>
+      <h4>Universidad de la Amazonia
+
+      </h4>
+      <h4>Ingenieria de Sistemas
+        
+        </h4>
     </footer>
   );
 };
