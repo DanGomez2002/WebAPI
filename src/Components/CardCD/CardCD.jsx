@@ -40,47 +40,47 @@ const CardCusmDetail = ({ user }) => {
           </Typography>
 
           <Typography
-            sx={{ fontSize: '1.4rem', color: 'Yellow', fontFamily: 'cursive', mb: -1 }}
+            sx={{ fontSize: '1.4rem', color: 'black', fontFamily: 'serif', mb: -1 }}
           >
             Raza
           </Typography>
-          <Typography sx={{ fontSize: '1.4rem', color: 'white', fontFamily: 'cursive', mb: 1 }}>
+          <Typography sx={{ fontSize: '1.4rem', color: 'white', fontFamily: 'serif', mb: 1 }}>
             {user.race}
           </Typography>
 
           <Typography
-            sx={{ fontSize: '1.4rem', color: 'Yellow', fontFamily: 'cursive', mb: -1 }}
+            sx={{ fontSize: '1.4rem', color: 'black', fontFamily: 'serif', mb: -1 }}
           >
             Género
           </Typography>
-          <Typography sx={{ fontSize: '1.4rem', color: 'white', fontFamily: 'cursive', mb: 1 }}>
+          <Typography sx={{ fontSize: '1.4rem', color: 'white', fontFamily: 'serif', mb: 1 }}>
             {user.gender}
           </Typography>
 
           <Typography
-            sx={{ fontSize: '1.4rem', color: 'Yellow', fontFamily: 'cursive', mb: -1 }}
+            sx={{ fontSize: '1.4rem', color: 'black', fontFamily: 'serif', mb: -1 }}
           >
             Ki Base
           </Typography>
-          <Typography sx={{ fontSize: '1.4rem', color: 'white', fontFamily: 'cursive', mb: 1 }}>
+          <Typography sx={{ fontSize: '1.4rem', color: 'white', fontFamily: 'serif', mb: 1 }}>
             {user.ki}
           </Typography>
 
           <Typography
-            sx={{ fontSize: '1.4rem', color: 'Yellow', fontFamily: 'cursive', mb: -1 }}
+            sx={{ fontSize: '1.4rem', color: 'black', fontFamily: 'serif', mb: -1 }}
           >
             Ki Total
           </Typography>
-          <Typography sx={{ fontSize: '1.4rem', color: 'white', fontFamily: 'cursive', mb: 1 }}>
+          <Typography sx={{ fontSize: '1.4rem', color: 'white', fontFamily: 'serif', mb: 1 }}>
             {user.maxKi}
           </Typography>
 
           <Typography
-            sx={{ fontSize: '1.4rem', color: 'Yellow', fontFamily: 'cursive', mb: -1 }}
+            sx={{ fontSize: '1.4rem', color: 'black', fontFamily: 'serif', mb: -1 }}
           >
             Afiliación
           </Typography>
-          <Typography sx={{ fontSize: '1.4rem', color: 'white', fontFamily: 'cursive', mb: 1 }}>
+          <Typography sx={{ fontSize: '1.4rem', color: 'white', fontFamily: 'serif', mb: 1 }}>
             {user.affiliation}
           </Typography>
         </CardContent>
