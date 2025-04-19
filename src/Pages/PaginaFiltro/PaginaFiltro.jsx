@@ -3,7 +3,7 @@ import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom';
 import {useParams} from 'react-router-dom'
 
-import CardCumt from '../../Components/CardCumt/CardCumt';
+import CardCumt from '../../Components/CardC/CardC';
 
 
 const PaginaFiltro = () => {

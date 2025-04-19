@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom';
 
-import CardCumt from '../../Components/CardCumt/CardCumt';
+import CardCumt from '../../Components/CardC/CardC';
 import Pagination from '@mui/material/Pagination';
 import Stack from '@mui/material/Stack';
 

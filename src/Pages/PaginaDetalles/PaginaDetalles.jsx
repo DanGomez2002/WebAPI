@@ -1,7 +1,7 @@
 import {useEffect, useState} from 'react'
 import {useParams} from 'react-router-dom'
 
-import CardCusmDetail from '../../Components/CardCusmDetail/CardCusmDetail';
+import CardCusmDetail from '../../Components/CardCD/CardCD';
 
 
 const PaginaDetalles = () => {
