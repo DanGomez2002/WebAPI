@@ -6,10 +6,10 @@ const CardAbout = () => {
   return (
 
     <Card sx={{ 
-        maxWidth: 800, 
+        maxWidth: 1000, 
         mx: 'auto', 
-        p: 4,
-        mt: 4,
+        p: 5,
+        mt: 6,
         textAlign: 'center',
         backgroundColor: 'rgb(142, 179, 190)'
       }}>
@@ -18,12 +18,12 @@ const CardAbout = () => {
 
         <Typography component="h2" sx={{ fontSize: '2.7rem', fontWeight: 700, fontFamily: 'sans-serif', 
             color: 'black', mb: 1}}>
-            Sobre mí
+            Acerca de mí
         </Typography>
 
         <Typography component="div" variant="caption" paragraph sx={{ fontSize: '2.0rem', 
-            fontFamily: 'sans-serif', textAlign: 'justify', mb: 3 }}>
-        Soy Carlos Daniel Gómez Murcia, estudiante de Ingenieria de Sistemas en la Universidad de la Amazonia
+            fontFamily: 'sans-serif', textAlign: 'justify', mb: 1 }}>
+        Soy Carlos Daniel Gómez Murcia, estudiante de Ingenieria de Sistemas en la Universidad de la Amazonia, este es mi trabajo de programación web.
         </Typography>       
     </Card>   
   );

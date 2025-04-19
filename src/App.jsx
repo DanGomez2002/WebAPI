@@ -7,8 +7,8 @@ import NavBar from './Components/NavBar/NavBar'
 import PaginaInicio from './Pages/PaginaInicio/PaginaInicio'
 import PaginaFiltro from './Pages/PaginaFiltro/PaginaFiltro'
 import PaginaDetalles from './Pages/PaginaDetalles/PaginaDetalles'
-import PaginaError from './Pages/PaginaAbout/PaginaAbout'
-import PaginaAbout from './Pages/PaginaError/PaginaError'
+import PaginaError from './Pages/PaginaError/PaginaError'
+import PaginaAbout from './Pages/PaginaAbout/PaginaAbout'
 import Footer from './Components/Footer/Footer'
 
 const App = () => {
